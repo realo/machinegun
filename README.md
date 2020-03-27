@@ -7,7 +7,7 @@ Install `Termux` from GPlay
 Open `Termux` and execute the command:
 
   * `apt update`
-  * `apt install python python-pip git -y`
+  * `apt install python python2 python-pip git -y`
   * `git clone https://github.com/realo/machinegun`
   * `cd machinegun/`
   * `pip install -r requirements.txt`
